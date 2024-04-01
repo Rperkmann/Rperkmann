@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,git,github,vim,bash,docker,linux,windows,apple)](https://skillicons.dev)
+
 <!--
 **Rperkmann/Rperkmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
